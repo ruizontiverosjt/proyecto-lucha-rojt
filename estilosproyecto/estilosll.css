@@ -1,0 +1,20 @@
+body {
+background-color: blueviolet;
+}
+h1 {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 17px;
+}
+p {
+    text-align: center;
+    font-size: medium;
+}
+creditos {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: center;
+}
+sub {
+    text-align: center;
+}
